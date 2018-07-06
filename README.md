@@ -47,7 +47,7 @@ mql.addListener(enter, 'enter');
 
 The listener types supported would be:
 
-* 
+* `default` - current behaviour
 * `enter` - A listener set to the `enter` action would execute 
 * `leave` - A listener set to the `leave` action would execute when 'matches' goes from true to false; 
 * `resize` - This is new behaviour, a resize listener would execute whenever the browser is resized while the media query matches.
