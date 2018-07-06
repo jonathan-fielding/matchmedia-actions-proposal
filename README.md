@@ -1,4 +1,4 @@
-# matchMedia Options Proposal
+# matchMedia Actions Proposal
 
 The matchMedia API allows us to add listeners that when the media query is matched or unmatched it will fire a method. A common pattern for using this would look like the following.
 
